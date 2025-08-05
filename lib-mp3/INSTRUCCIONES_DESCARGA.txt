@@ -1,0 +1,28 @@
+# INSTRUCCIONES PARA AGREGAR SOPORTE MP3
+# =====================================
+
+BIBLIOTECAS NECESARIAS:
+1. mp3spi1.9.5.jar - Decodificador MP3
+2. jl1.0.1.jar - JavaLayer (dependencia)
+3. tritonus_share.jar - Biblioteca base
+
+PASOS PARA DESCARGAR:
+
+1. Ir a: http://www.javazoom.net/mp3spi/mp3spi.html
+2. Descargar: mp3spi1.9.5.jar
+3. Ir a: http://www.javazoom.net/javalayer/javalayer.html  
+4. Descargar: jl1.0.1.jar
+5. Ir a: http://www.tritonus.org/plugins.html
+6. Descargar: tritonus_share.jar
+
+UBICACIÓN:
+Colocar todos los JAR en: lib-mp3/
+
+ALTERNATIVA RÁPIDA:
+También puedes buscar "mp3spi maven" y descargar desde repositorios Maven.
+
+VERIFICACIÓN:
+Los archivos deben quedar así:
+- lib-mp3/mp3spi1.9.5.jar
+- lib-mp3/jl1.0.1.jar  
+- lib-mp3/tritonus_share.jar

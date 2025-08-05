@@ -1,0 +1,18 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Ejecutar Reproductor",
+			"type": "shell",
+			"command": "java",
+			"args": [
+				"-cp",
+				"src;JMF-2.1.1e/lib/jmf.jar",
+				"reproductor1.VentanaPrincipal"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
