@@ -31,6 +31,7 @@ El proyecto original incluía:
 - ✅ Controles básicos: play, stop, previous, next
 - ✅ Interfaz básica generada por NetBeans
 - ✅ Soporte para formatos: WAV, AU, AIFF
+- ✅ Diseñado con JDK 17 
 
 ### Limitaciones Iniciales
 - ❌ Interfaz anticuada y poco atractiva
@@ -72,6 +73,7 @@ El proyecto original incluía:
 - **⚠️ Limitación MP3**: Incluido en filtros pero requiere bibliotecas adicionales
 - **🔍 Validación Inteligente**: Detección automática de formatos soportados
 - **💡 Mensajes Informativos**: Explicación clara sobre limitaciones de MP3
+- **✅ Acutalizado a JDK 24 para mayor compatibilidad**
 
 ## 🚀 Mejoras Implementadas
 
